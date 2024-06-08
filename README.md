@@ -1,1 +1,1 @@
-# color_colections
+# color_collections
